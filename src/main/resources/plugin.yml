@@ -1,0 +1,4 @@
+name: 'CreativeBlock'
+version: 1.0.0
+main: 'CreativeBlock'
+api-version: '1.19'
